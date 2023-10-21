@@ -4,7 +4,7 @@ public class Employee {
 	private String name;
 	private int numberOfHours;
 /**
- * this is a constructor of Employee
+ * this is a constructor of  class Employee
  * 
  * @param name
  * @param numberOfHours 
